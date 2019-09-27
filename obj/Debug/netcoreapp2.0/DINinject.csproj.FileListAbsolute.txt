@@ -1,0 +1,11 @@
+D:\InterviewS\PREPARING\Ninject\DINinject\DINinject\bin\Debug\netcoreapp2.0\DINinject.deps.json
+D:\InterviewS\PREPARING\Ninject\DINinject\DINinject\bin\Debug\netcoreapp2.0\DINinject.runtimeconfig.json
+D:\InterviewS\PREPARING\Ninject\DINinject\DINinject\bin\Debug\netcoreapp2.0\DINinject.runtimeconfig.dev.json
+D:\InterviewS\PREPARING\Ninject\DINinject\DINinject\bin\Debug\netcoreapp2.0\DINinject.dll
+D:\InterviewS\PREPARING\Ninject\DINinject\DINinject\bin\Debug\netcoreapp2.0\DINinject.pdb
+D:\InterviewS\PREPARING\Ninject\DINinject\DINinject\obj\Debug\netcoreapp2.0\DINinject.csprojAssemblyReference.cache
+D:\InterviewS\PREPARING\Ninject\DINinject\DINinject\obj\Debug\netcoreapp2.0\DINinject.csproj.CoreCompileInputs.cache
+D:\InterviewS\PREPARING\Ninject\DINinject\DINinject\obj\Debug\netcoreapp2.0\DINinject.AssemblyInfoInputs.cache
+D:\InterviewS\PREPARING\Ninject\DINinject\DINinject\obj\Debug\netcoreapp2.0\DINinject.AssemblyInfo.cs
+D:\InterviewS\PREPARING\Ninject\DINinject\DINinject\obj\Debug\netcoreapp2.0\DINinject.dll
+D:\InterviewS\PREPARING\Ninject\DINinject\DINinject\obj\Debug\netcoreapp2.0\DINinject.pdb
